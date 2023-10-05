@@ -46,7 +46,7 @@
 
 # [대표 이미지]
 
-![그림](choiwise/img/대표img.png)
+![그림](choiwise/choiwise.github.io/blob/main/img/대표img.png)
 
 <br><br>
 
