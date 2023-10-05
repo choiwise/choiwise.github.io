@@ -1,5 +1,7 @@
 # 프로젝트명: Space In Dreams
 
+개발자:최현명
+
 # [컨셉]
 
 ## 메인컨셉 : 궁금증 
@@ -46,7 +48,7 @@
 
 # [대표 이미지]
 
-<img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EB%8C%80%ED%91%9Cimg.png">
+<img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EB%8C%80%ED%91%9Cimg.png" weight:450 height:450>
 
 <br><br>
 
