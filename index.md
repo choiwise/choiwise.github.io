@@ -40,7 +40,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EA%B4%80%EB%A0%A8%EC%9D%B4%EB%AF%B8%EC%A7%80.png">
+  <img src="./img/관련이미지.png">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
@@ -48,7 +48,7 @@
 
 # [대표 이미지]
 
-<img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EB%8C%80%ED%91%9Cimg.png">
+<img src="./img/대표img.png">
 
 <br><br>
 
