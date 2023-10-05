@@ -46,15 +46,15 @@
 
 # [대표 이미지]
 
-![그림]<img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EB%8C%80%ED%91%9Cimg.png">
+<img src="https://github.com/choiwise/choiwise.github.io/blob/main/img/%EB%8C%80%ED%91%9Cimg.png">
 
 <br><br>
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-> ### 대표이미지 기반 :
+> ### 대표이미지 기반 : 지도에 표시된 아이템을 모두 획득해야 게임이 끝나게 된다. 남은 아이템은 왼쪽 위에 표시가 되고 플레이어를 죽이는 적이 존재 한다. 
 
-> ### 컨셉 기반:
+> ### 컨셉 기반: 공포스러운 음악이 깔리고 플레이어는 아이템을 먹으며 움직인다.지도는 오른쪽 위에 표시되지만 적은 표시가 되지 않는다. 아이템을 일정 갯수 획득 시 다른 효과의 아이템들이 떨어진다. 
 
 <br><br>
 
