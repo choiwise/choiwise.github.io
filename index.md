@@ -117,7 +117,7 @@
 |003|운전대|<img src="./img/운전대.png" height="300">|
 |004|망치|<img src="./img/망치.png" height="300">|
 |005|상자|<img src="./img/상자.png" width="300">|
-|005|공포 음악| 이미지 x>|
+|006|공포 음악| 이미지 x>|
 |007|고철더미|<img src="./img/고철더미.png" height="300">|
 |008|손전등|<img src="./img/손전등.png" height="300">|
 |009|연장상자|<img src="./img/연장상자.png" width="300">|
