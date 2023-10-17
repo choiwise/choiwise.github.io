@@ -106,4 +106,27 @@
 대중적으로 사용되는 pc 사양에 맞게 제작할 예정이다. 
 
 
+## 5. 
 
+# 1. 게임 오브젝트 분해 (구성 요소 분석)
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|001|주인공|<img src="./img/주인공.png" width="500">|
+|002|적1,2,3|<img src="./img/적.png" width="500">|
+|003|운전대|<img src="./img/운전대.png" height="300">|
+|004|망치|<img src="./img/망치.png" height="300">|
+
+|005|상자|<img src="./img/상자.png" width="500">|
+|006|골대|<img src="./img/골대.png" width="500">|
+|007|고철더미|<img src="./img/고철더미.png" height="300">|
+|008|손전등|<img src="./img/손전등.png" height="300">|
+
+|009|연장상자|<img src="./img/연장상자.png" width="500">|
+|010|연료통|<img src="./img/연료통.png" width="500">|
+|011|지도ui|<img src="./img/지도.png" height="300">|
+|012|산소|<img src="./img/산소.png" height="300">|
+
+|013|적일러스트|<img src="./img/적일러.png" width="500">|
+|014|주인공 일러스트|<img src="./img/주인공.png" width="500">|
+|015|엔딩 일러스트|<img src="./img/엔딩.png" width="500">|
