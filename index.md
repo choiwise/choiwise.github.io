@@ -466,7 +466,7 @@ oncoliderEnter 함수를 이용해 적이 플레이어와 닿으면  애니메�
 맵지도UI 제작 40% 
 
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/UswX5d5vYoA?si=K5awfQSN7zakgg-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="960" height="720" src="https://www.youtube.com/embed/UswX5d5vYoA" title="구현2주차." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
  
  
@@ -538,8 +538,7 @@ oncoliderEnter 함수를 이용해 적이 플레이어와 닿으면  애니메�
 
 OntriggerEnter을 통해 범위안에 들어오면 소리가 들린다. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6-_A5s4UfXo?si=Ci-NapUXuqcDRoXK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
+<iframe width="960" height="563" src="https://www.youtube.com/embed/6-_A5s4UfXo" title="구현3주차" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  # 12. 구현 4주차 작업 결과 <a name="4"></a>
 
  작업명: 적 플레이어 추격 및 아이템 추가 
@@ -581,4 +580,4 @@ ai 구현후 문제 오류 해결 완료
 
 미구현 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlP_7hRaGro?si=RCHPJH4LvVmVRTRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="960" height="563" src="https://www.youtube.com/embed/xlP_7hRaGro" title="구현 4주차 Ai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
