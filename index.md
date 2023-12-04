@@ -17,6 +17,7 @@
 ### 13. [3주차 작업 결과](#3)
 ### 14. [4주차 작업 결과](#4)
 ### 15. [5주차 작업 결과](#5)
+### 16. [6주차 작업 결과](#6)
 # 프로젝트명: Space In Dreams
 
 # 1. 프로젝트 소개 <a name="소개"></a>
@@ -413,7 +414,7 @@ ai가 재탐색 해야 하도록 유도하여 도망치면서 아이템을 얻�
 
 
 
- # 11. 구현 2주차 작업 결과 <a name="2"></a>
+ # 12. 구현 2주차 작업 결과 <a name="2"></a>
 
  작업명: 스테이지 제작 및 충돌 적용
 
@@ -471,7 +472,7 @@ oncoliderEnter 함수를 이용해 적이 플레이어와 닿으면  애니메�
  
  
  
- # 11. 구현 3주차 작업 결과 <a name="3"></a>
+ # 13. 구현 3주차 작업 결과 <a name="3"></a>
 
 작업명:   UI 제작 및 음악배치  
 
@@ -584,7 +585,7 @@ ai 구현후 문제 오류 해결 완료
 <iframe width="960" height="563" src="https://www.youtube.com/embed/xlP_7hRaGro" title="구현 4주차 Ai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
- # 11. 구현 5주차 작업 결과 <a name="5"></a>
+ # 14. 구현 5주차 작업 결과 <a name="5"></a>
 
 작업명:디버프 및 디버프 아이템 구현
 
@@ -626,3 +627,30 @@ ai 구현후 문제 오류 해결 완료
 현재 디버프시 화면이 붉게 바뀌도록  변경하였으나 키변경 함수 로직이 작동하지 않아 디버그 찍어본 결과 디버프 해제 함수는 잘 동작하는데 디버프 적용하는 부분에서 문제가 발생 하고 있음
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/zougtqW1hfw?si=wZcNGFiBn5s-cDqQ" title="YouTube video player" frameborder="0"></iframe></p>
+
+ 
+ # 15. 구현 6주차 작업 결과 <a name="6"></a>
+
+ 
+작업명 : 디버프 아이템 배치 및 디버프 구현 
+
+
+
+해당요구사항:
+
+7.플레이 맵 제작(2개). (13)100%
+
+맵 끼는곳 수정 필요
+
+
+9.산소 아이템이 전체 개수의 60%이상 획득된 상태이면 랜덤 아이템을 뿌리도록 한다.(11) 90%
+
+12.플레이어가 랜덤 아이템을 획득하면 바로 효과가 발동 된다.(18)100%
+
+13.효과는 느려짐!.시야 가리기!,산소 부족! 디버프이다.(19)80%
+
+느려짐은 플레이어의 이동속도가 20% 감소하고 시야 가리기는 5초동안 플레이어 시야를 가린다. 시야를 가리는 동안은 무적이다. 80% 
+18.마지막 스테이지는 15초마다 2초동안 키입력이 반대로 입력되도록 한다.(17)80%
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aFtS3vH_RBg?si=2BpvSztanhijMbqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
