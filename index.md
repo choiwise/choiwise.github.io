@@ -18,6 +18,7 @@
 ### 14. [4주차 작업 결과](#4)
 ### 15. [5주차 작업 결과](#5)
 ### 16. [6주차 작업 결과](#6)
+### 17. [게임 플레이 결과](#7)
 # 프로젝트명: Space In Dreams
 
 # 1. 프로젝트 소개 <a name="소개"></a>
@@ -414,7 +415,7 @@ ai가 재탐색 해야 하도록 유도하여 도망치면서 아이템을 얻�
 
 
 
- # 12. 구현 2주차 작업 결과 <a name="2"></a>
+ #  12. 구현 2주차 작업 결과 <a name="2"></a>
 
  작업명: 스테이지 제작 및 충돌 적용
 
@@ -472,7 +473,7 @@ oncoliderEnter 함수를 이용해 적이 플레이어와 닿으면  애니메�
  
  
  
- # 13. 구현 3주차 작업 결과 <a name="3"></a>
+ #  13. 구현 3주차 작업 결과 <a name="3"></a>
 
 작업명:   UI 제작 및 음악배치  
 
@@ -541,7 +542,8 @@ oncoliderEnter 함수를 이용해 적이 플레이어와 닿으면  애니메�
 OntriggerEnter을 통해 범위안에 들어오면 소리가 들린다. 
 
 <iframe width="960" height="563" src="https://www.youtube.com/embed/6-_A5s4UfXo" title="구현3주차" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- # 12. 구현 4주차 작업 결과 <a name="4"></a>
+
+ #  14.구현 4주차 작업 결과 <a name="4"></a>
 
  작업명: 적 플레이어 추격 및 아이템 추가 
 
@@ -654,3 +656,11 @@ ai 구현후 문제 오류 해결 완료
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFtS3vH_RBg?si=2BpvSztanhijMbqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+ # 16. 게임 플레이 결과 <a name="7"></a>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/av8tvAMYGmE?si=JJnX2qRvFwInQ7RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
